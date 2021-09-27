@@ -8,4 +8,22 @@
 숲속에는 누군가 설치한 온갖 함정들이 존재하였는데, 그는 이러한 함정들을 헤쳐나가며, 보물을 찾기 위해 노력한다.
 
 ## 프로그램 동작도
-<imsg src="https://user-images.githubusercontent.com/74814641/134960182-47423cb2-3404-4d27-a749-a234dc681e78.png" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/74814641/134960182-47423cb2-3404-4d27-a749-a234dc681e78.png" width="600" height="400"/>
+
+## 시작화면
+![image8](https://user-images.githubusercontent.com/74814641/134961292-9028f8bd-14a6-4e36-9f82-684dde665412.gif)
+
+## 첫 번째 맵(숲)
+![1라운드](https://user-images.githubusercontent.com/74814641/134962797-54791b0f-2ccb-4679-9e07-f50e3c43ac98.gif)
+
+## 두 번째 맵(환영)
+![2](https://user-images.githubusercontent.com/74814641/134963195-6aa0b806-ec93-4393-a044-aaa7d9aae5b4.gif)
+
+## 세 번쨰 맵(유적지)
+![3](https://user-images.githubusercontent.com/74814641/134963347-1d36f425-bb2c-40fb-baf5-4515d57c93a0.gif)
+
+## 캐릭터 사망
+![죽음](https://user-images.githubusercontent.com/74814641/134963816-0b10ce3b-dbae-4137-8dc5-c6d9b3e7997b.gif)
+
+## 메뉴(ESC)
+![메뉴](https://user-images.githubusercontent.com/74814641/134964062-a028748a-8dab-45d6-9c9f-4573bf582922.gif)
