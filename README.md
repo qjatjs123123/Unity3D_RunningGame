@@ -7,6 +7,8 @@
 게임의 주인공인 'Bandit'은 트레저헌터이다. 그는 어느날 숲속에 숨겨진 유적지에 엄청난 보물이 있다는 소식을 듣게 된다. 그는 보물을 찾기 위해 거대한 숲으로 들어갔다. 
 숲속에는 누군가 설치한 온갖 함정들이 존재하였는데, 그는 이러한 함정들을 헤쳐나가며, 보물을 찾기 위해 노력한다.
 
+## 조작 방법
+W:위, S:아래, A:왼쪽, D:오른쪽, SPACEBAR:점프, SHIFT:달리기, ESC:메뉴바
 ## 프로그램 동작도
 <img src="https://user-images.githubusercontent.com/74814641/134960182-47423cb2-3404-4d27-a749-a234dc681e78.png" width="600" height="400"/>
 
@@ -27,3 +29,6 @@
 
 ## 메뉴(ESC)
 ![메뉴](https://user-images.githubusercontent.com/74814641/134964062-a028748a-8dab-45d6-9c9f-4573bf582922.gif)
+
+##시연영상
+https://drive.google.com/file/d/1B0oM8N6G9E2R0mguMbTZxtptyNU85JuV/view?resourcekey
