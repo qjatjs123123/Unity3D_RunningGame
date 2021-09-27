@@ -8,3 +8,4 @@
 숲속에는 누군가 설치한 온갖 함정들이 존재하였는데, 그는 이러한 함정들을 헤쳐나가며, 보물을 찾기 위해 노력한다.
 
 ## 프로그램 동작도
+<imsg src="https://user-images.githubusercontent.com/74814641/134960182-47423cb2-3404-4d27-a749-a234dc681e78.png" width="200" height="400"/>
